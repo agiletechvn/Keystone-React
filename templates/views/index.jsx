@@ -7,7 +7,7 @@ const Index = (props) => {
 			<div className="container">
 				<div className="jumbotron">
 					<img src="/images/logo.svg" width="160" />
-					<h1>Welcome</h1>
+					<h1>Welcome 123</h1>
 					<p>This is your new <a href='http://keystonejs.com' target='_blank'>KeystoneJS</a> website.</p>
 					<p>
 						It includes the latest versions of <a href='http://getbootstrap.com/' target='_blank'>Bootstrap</a> and <a href='http://www.jquery.com/' target='_blank'>jQuery</a>.

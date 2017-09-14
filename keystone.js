@@ -32,6 +32,7 @@ keystone.init({
 	'view': renderer.expressView,
 
 	'auto update': true,
+	'cookie secret': 'desmondkam',
 	'session': true,
 	'auth': true,
 	'user model': 'User',
